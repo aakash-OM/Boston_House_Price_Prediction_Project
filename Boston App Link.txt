@@ -1,1 +1,1 @@
-Boston App Link :   Boston1-env.eba-r4z2pqfb.us-east-1.elasticbeanstalk.com
+Boston App Link :  http://newapp-env.eba-4vrzwmsm.us-east-1.elasticbeanstalk.com/
